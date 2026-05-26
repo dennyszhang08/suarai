@@ -1,5 +1,5 @@
 def main():
-    print("Hello from suarai!")
+    print("Hello from suarai-backend!")
 
 
 if __name__ == "__main__":
